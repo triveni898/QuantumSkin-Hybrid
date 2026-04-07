@@ -74,15 +74,12 @@ Pipeline:
 
 ### 📈 Training Accuracy
 
-![Accuracy](results/accuracy.png)
 
 ### 📉 Loss Curve
 
-![Loss](results/loss.png)
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
 
 ---
 
@@ -96,7 +93,7 @@ Pipeline:
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/QuantumSkin-Hybrid.git
+git clone https://github.com/triveni898/QuantumSkin-Hybrid.git
 cd QuantumSkin-Hybrid
 pip install -r requirements.txt
 ```
