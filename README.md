@@ -63,25 +63,7 @@ Pipeline:
 * Matplotlib
 * Captum (Grad-CAM)
 
----
 
-## 📊 Results
-
-* **Accuracy:** 92%
-* **F1 Score:** 0.91
-* **AUC:** 0.96
-* **Expected Calibration Error (ECE):** 0.03
-
-### 📈 Training Accuracy
-
-
-### 📉 Loss Curve
-
-
-### 📊 Confusion Matrix
-
-
----
 
 ## 📂 Dataset
 
